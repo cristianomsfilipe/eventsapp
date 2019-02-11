@@ -1,4 +1,4 @@
-package pt.training.eventsapp;
+package pt.training.eventsapp.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
